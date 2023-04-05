@@ -34,7 +34,7 @@ export default function AuthModalInputs({
             placeholder="Last Name"
             value={inputs.lastName}
             onChange={handleChangeInput}
-            name="lasttName"
+            name="lastName"
           />
         </div>
       )}
